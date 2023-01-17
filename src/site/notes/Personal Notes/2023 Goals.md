@@ -10,3 +10,10 @@
 - [ ] Consider career PD around the summer
 - [ ] Find out about visiting Jamie again
 - [ ] Plan a summer holiday with the family
+
+
+- PD:
+	- Typescript - can write stuff in 
+	- Carve out time to spend on DevOps learning
+	- 
+	
